@@ -17,4 +17,6 @@ This is a small React-based app created with the help of a Udemy Course: 'The ul
 - Will display errors (if any)
 - Stats -> number of movies, average IMDb rating, average use rating, average time
 
+![image](https://github.com/dariusdinu/usePopcorn/assets/75120006/5edde2fa-8062-4905-bbd2-0c731ca4ab3f)
+
 The app can be found here: https://usepopcorn-dinu-darius.netlify.app/
